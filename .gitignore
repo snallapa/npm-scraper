@@ -1,0 +1,4 @@
+*.txt
+old_stuff/*
+*.csv
+*.gephi
